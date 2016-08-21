@@ -2,7 +2,6 @@ name: jodikafit
 favicon: null
 layout_spectrum: 0.006825913209468126
 typography_spectrum: 0.10828104219399393
-title: Your Morning Coffee
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.4375
-  lightness: 0.6875
-  saturation: 0.625
+  brandStrength: 0.2247894445899874
+  lightness: 0.7631049284245819
+  saturation: 0.6113292118534446
   rhythmicContrast: 0.45603493321686983
 purpose: []
